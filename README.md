@@ -1,5 +1,5 @@
 
-# Crónicas de un Informático métido a profesor
+# Crónicas de un Informático metido a profesor
 
 Hoy, 22 de noviembre de 2018, he decidido empezar a escribir: mis experiencias, mis conclusiones y mi forma de proceder en relación a mis "vivencias" trabajando como profesor de Ciclos Formativos de Grado Superior.
 
