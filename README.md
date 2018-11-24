@@ -1,6 +1,8 @@
 
 # Crónicas de un Informático metido a profesor
 
+> Todo lo que van a leer, es ficción. Cualquier parecido con la realidad, es pura coincidencia.
+
 Hoy, 22 de noviembre de 2018, he decidido empezar a escribir
 conclusiones y forma de proceder en relación a mis experiencias
 trabajando como profesor en los Ciclos Formativos de Grado Superior.
