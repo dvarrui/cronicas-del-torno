@@ -46,3 +46,13 @@ Las entregas están relacionadas con el esuferzo:
 # Gritar, hablar o escribir y mensajear
 
 * Cuándo y por qué
+
+# pedagogía
+
+* Ayuda o teoría abstracta?
+* Definición de ciencia.
+* Experimentos y predicción.
+
+# Soy o trabajo?
+
+* Esa es la cuestión!

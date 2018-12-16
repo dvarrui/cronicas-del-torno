@@ -1,7 +1,7 @@
 
 # Crónicas de un Informático metido a profesor
 
-> Todo lo que van a leer, es ficción. Cualquier parecido con la realidad, es pura coincidencia.
+> Todo lo que van a leer, es ficción. Cualquier parecido con la realidad, es pura "koinsidensia".
 
 Hoy, 22 de noviembre de 2018, he decidido empezar a escribir
 conclusiones y forma de proceder en relación a mis experiencias
