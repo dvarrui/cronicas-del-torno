@@ -1,3 +1,6 @@
+```
+EN CONSTRUCCIÓN!!!
+```
 
 # El servidor DHCP fantasma.
 
@@ -23,7 +26,7 @@ david@camaleon:~> ip a
        valid_lft forever preferred_lft forever
     inet6 fe80::52b7:c3ff:fe06:e2d1/64 scope link
        valid_lft forever preferred_lft forever
-david@camaleon:~> 
+david@camaleon:~>
 ```
 
 Hago `ping 8.8.4.4` pero no tengo conectividad con el exterior. Oh! ¿qué le pasa a la puerta de enlace? Hago `ip route`  y ... veo que tengo como gateway a `172.19.99.116`... pero ¿por qué? Por eso no tengo salida hacia  a fuera. La puerta de enlace debe ser `172.19.0.1`.
@@ -53,7 +56,7 @@ Entonces deduzco que el problema está en el aula 109 y debe ser que alguien ten
 
 Al día siguiente vuelvo al aula 109 y con la configuración dinámica el portátil se configura bien. Ummmmm
 
-Les pregunto a los alumnos que clase tenían el martes antes de mí y qué clases tenían el miércoles antes de mí. Resulta que cuando trabajan en la asignatura de servicios de red han trabajado el servidor DHCP y al llegar yo después han dejado la MV encendidas y con el servidor DHCP activo y mi portátil se ha configurado mal.
+Les pregunto a los alumnos que clase tenían el martes antes de mí y qué clases tenían el miércoles antes de mí. Resulta que cuando trabajan en la asignatura de servicios de red han trabajado el servidor DHCP y al llegar yo después han dejado la MV encendidas con el servidor DHCP activo. Así mi portátil se ha configurado mal al llegar.
 
 Acciones:
 * Desinstalen o desactiven el servidor DHCP ¡por dios! ¡Que ya terminaron la práctica!.
