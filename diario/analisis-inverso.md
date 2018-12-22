@@ -4,8 +4,10 @@
 Cerebro:
 ```
 "¡Estoy arto! ¡Cansado más bien!
-Todos los años igual. Y mira que siempre pienso algo nuevo y
-hago propósito de mejorar para cada nuevo curso. ¡Pero no!
+Todos los años igual.
+Y mira que siempre pienso algo nuevo
+y hago propósito de mejorar para cada nuevo curso.
+¡Pero no!
 Siempre acabo en el mismo sitio.
 ¡Agobiado corrigiendo y apurado a última hora!
 ¿Por qué?
@@ -22,9 +24,11 @@ Corrige y pasa de "pensar"
 
 Cerebro:
 ```
-¡Jajajaja! ¡Qué no piense! ¡Me quieres anular como individuo! ¿eh?
-Recuerda YO que has estudiado informática muchos años... ¿has olvidado
-tus principios? ¿Has renegado de DRY?
+¡Jajajaja! ¡Qué no piense!
+¡Me quieres anular como individuo! ¿eh?
+Recuerda que has estudiado informática muchos años...
+¿Has olvidado tus principios?
+¿Has renegado de DRY?
 ```
 
 YO:
@@ -35,10 +39,15 @@ R = Repeat
 Y = Yourself
 Estoy faltando a mis principios más básicos. Y además lo que es
 peor...estoy sufriendo más. ¡Esto no es divertido!
-¡Cerebro, activa tu parte matemático-lógica y busca una solución!
+¡Cerebro, activa tu parte matemático-lógica
+y busca una solución!
 ```
 
-Cerebro: `Booting...`
+```
+yo@cerebro> find / -type solution`
+
+    Searching...
+```
 
 ---
 
@@ -77,7 +86,9 @@ Normalmente le pongo a los alumnos actividades que son como mini-proyectos que s
 
 Etica:
 ```
-¡eh! ¡Cerebro y YO! ¿Entonces si haces 10 actividades y sólo evaluas 6...
+¡eh! ¡Cerebro y YO!
+¿Entonces si haces 10 actividades y
+sólo evaluas 6...
 las otras 4?
 ```
 
@@ -91,7 +102,25 @@ Etica: `pero... pero... no es correcto. No es profesional.`
 
 YO: `Entiendo que no es la forma más adecuada de que la empresa cumpla sus objetivos y dé el servicio adecuado a sus clientes. Eso creo. Pero... es decisión de la empresa. Yo lo que puedo hacer es informar de la situación que se ha detectado. Pero no tomo esas decisiones.`
 
-Etica: `pero... tienes que sacrificarte por la empresa, por los clientes, por el objetivo del universo!!!`
+Etica:
+```
+pero...
+tienes que SACRIFICARTE POR LA EMPRESA,
+por los CLIENTES,
+por el UNIVERSO!!!
+```
 
-YO: `Ya. Te entiendo. ¡Te dejo! ¡Que me espera mi hijo para...
-bueno ya sabes. ¿No lo sabes? ¡Ah claro! Por eso hablas así. ¡Adiós!.`
+YO:
+```
+Ya. Te entiendo.
+Intentaré hacerlo lo mejor que pueda.
+
+¡Te dejo!
+¡Que me espera mi hijo para...
+bueno ya sabes.
+
+¿No lo sabes?
+¡Ah claro! Por eso hablas así.
+
+¡Adiós! ;-)
+```
