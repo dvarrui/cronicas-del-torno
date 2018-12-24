@@ -86,11 +86,13 @@ Veamos un ejemplo para el trimestre que viene:
 * El trimestre normalmente tiene 10 semanas (st). Por lo que tenemos: 10 x 7.5 = 75 horas en el trimestre para corregir los trabajos y preparar nuevas actividades.
 * Supongamos (para ser generosos) que solamente voy a tener en cuenta el tiempo de corrección, y que las horas de preparación de actividades... se las voy a regalar a la empresa (¡uff! Ya lo sé... pero espera al final).
 * Este curso tengo 3 módulos con 29, 28 y 17 alumnos. En total tengo por cada uno de los módulos 29+28+17 = 74.
+    * OJO: Esto representan 3 grupos o 3 módulos.
 * Entonces si tengo durante el trimestre 75 horas y 74 alumnos... le puedo dedicar a corregir los trabajos de 1 alumno de 1 módulo durante 1 trimestre la friolera de... 1,01 horas o 60,8 minutos. Redondeo a 61 minutos (sigo perdiendo en mi contra).
 
 Normalmente le pongo a los alumnos actividades que son como mini-proyectos que suelen durar una semana y a veces también actividades de tipo cuestionario o taller. Olvidemos los cuestionarios porque se corrigen sólos. Esos no me suponen tiempo de corrección (si de creación). Para el resto de actividades...¿qué tiempo de media tardo en corregir 1 actividad de 1 módulo para 1 alumno?...
 * Supongamos (esto hay que calcularlo más concienzudamente) que tardo en corregir una actividad cuya entrega es un `informe con capturas de pantalla a modo de tutorial`... entonces pongamos 10 minutos de media (ya haré algún ajuste más fiel de este valor).
 * Entonces si para 1 alumno de 1 módulo en 1 trimestre le puedo dar 61 minutos de corrección y tardo 10 minutos en corregir una actividad de tipo `informe con capturas` tengo que durante el trimestre debo hacer cómo máximo un total de 6 actividades evaluables por cada módulo para no pasarme del tiempo que me da la empresa.
+    * Esto es, como son 3 módulos, serían 18 actividades por trimestre. O sea 6 actividades evaluables por cada módulos.
 
 ---
 
