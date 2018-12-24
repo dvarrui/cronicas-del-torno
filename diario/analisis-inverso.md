@@ -37,8 +37,9 @@ YO:
 D = Don't
 R = Repeat
 Y = Yourself
-Estoy faltando a mis principios más básicos. Y además lo que es
-peor...estoy sufriendo más. ¡Esto no es divertido!
+Estoy faltando a mis principios más básicos.
+Y además lo que es peor...estoy sufriendo más.
+¡Esto no es divertido!
 ¡Cerebro, activa tu parte matemático-lógica
 y busca una solución!
 ```
@@ -58,6 +59,19 @@ de trabajo semanal.
 * De las cuales 26 son de permanencia en el centro para cubrir guardias y horas lectivas.
 * Hay 4 que ahora no recuerdo...(Lo buscaré)
 * Luego 7.5 horas para "trabajar en casa" preparando actividades, corrigiendo, etc.
+
+---
+
+# Definiciones
+
+* evaluar
+    3. tr. Estimar los conocimientos, aptitudes y rendimiento de los alumnos.
+* estimar
+    1. tr. Calcular o determinar el valor de algo. Estimaron los daños en mucho dinero.
+* calificar
+    3. tr. Juzgar el grado de suficiencia o la insuficiencia de los conocimientos demostrados por un alumno u opositor en un examen o ejercicio.
+* juzgar
+    5. tr. Creer u opinar algo. ¿Juzgas que lo hizo por despecho?
 
 ---
 
@@ -82,7 +96,8 @@ Normalmente le pongo a los alumnos actividades que son como mini-proyectos que s
 
 # Reflexión
 
-¡Ahí estaba mi error! Yo estaba haciendo 10 (o más) actividades evaluables por triemestre... tengo que evaluar 6 para llegar a los tiempos.
+¡Ahí estaba mi error! Yo estaba haciendo 10 (o más) actividades evaluables por trimestre... y ¡no! Con el tiempo que tengo
+disponible sólo puedo evaluar 6 actividades del tipo "informe tutorial".
 
 Etica:
 ```
@@ -124,3 +139,25 @@ bueno ya sabes.
 
 ¡Adiós! ;-)
 ```
+
+---
+
+# Resumen
+
+Fórmula para el trimestre:
+* (M) Minutos totales del trimestre = 7,5 x 10 x 60 = 4500 minutos
+* (C) Número de correcciones por actividad = Número de alumnos totales
+* (T) Tiempo de corrección de una actividad = estimado en 10 minutos
+* (A) Número de actividades a evaluar e un trimestre = M / C x T
+
+Caminos posibles:
+1. Ajustar el número de actividades evaluables al tiempo disponible.
+    * Esto lo puede implementar el profesor directamente.
+2. Buscar estrategias para reducir el tiempo de corrección de las actividades:
+    * Cambiando el tipo de actividad.
+    * Usando corrección automática-remota (TEUTON).
+    * Usar rúbricas de evaluación sencillas.
+3. Reducir el número de alumnos, grupos y/o módulos asignados.
+    * Depende de la EMPRESA.
+4. Aumentar el tiempo disponible para evaluar, eliminando por ejemplo las horas complementarias. Por ejemplo, con una eliminación de 2 guardias M pasaría de 4500 a 5700. Y se podría pasar de 6,08 a 7,70 actividades evaluables.
+    * Esto depende de la EMPRESA.
