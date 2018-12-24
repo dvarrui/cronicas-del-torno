@@ -26,7 +26,7 @@ Ni controlo quien lo hace o deja de hacer. ¿No crees?
 
 # Las actividades variadas
 
-Las entregas están relacionadas con el esuferzo:
+Las entregas están relacionadas con el esfuerzo:
 * Del profesor a la hora de corregir y
 * Del alumno para saber dónde debe dedicarse para obtener máximo rendimiento.
 
