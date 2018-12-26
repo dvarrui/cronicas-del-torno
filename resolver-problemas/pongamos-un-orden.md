@@ -59,7 +59,7 @@ etc.
 > Vamos a ver, que yo llevo muchos años trabajando con el terminal. Además los actuales MacOS heredan de los sistemas BSD, y éstos a su vez de los UNIX...¡bien! Igual me sé los comandos...¡probemos!
 
 * Abro un terminal.
-* Funcionan los comandos: whoami, pwd, cd, ls, echo, mv, whereis, vi => OK
+* Funcionan los comandos que necesito: `whoami, pwd, cd, ls, echo, mv, whereis, vi` => OK
 * Además tenemos Bash. Entonces comienzo a hacer un script Bash para renombrar de forma masiva y automática los archivos de las fotos.
 
 > ¡Eh! Ahora si que soy un devops...automatizar, automatizar.
