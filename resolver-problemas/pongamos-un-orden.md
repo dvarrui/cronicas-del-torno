@@ -72,7 +72,7 @@ etc.
 
 > ¡EUREKA! Parece que viene instalado por defecto. Vale ya había empezado mi script en Bash y ahora lo cambio a Ruby porque eso me hace feliz. Y es lo que necesito ahora.
 
-* Hago el script en Ruby (La felicidad me hace coger velocidad y caldiad de vida). Éste es el resultado:
+* Hago el script en Ruby (La felicidad me hace coger velocidad). Éste es el resultado:
 
 ```
 #!/usr/bin/ruby
