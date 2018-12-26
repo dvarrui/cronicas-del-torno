@@ -3,7 +3,7 @@
 
 Cerebro:
 ```
-"¡Estoy arto! ¡Cansado más bien!
+"¡Estoy harto! ¡Cansado más bien!
 Todos los años igual.
 Y mira que siempre pienso algo nuevo
 y hago propósito de mejorar para cada nuevo curso.
