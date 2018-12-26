@@ -115,10 +115,9 @@ end
 > Entonces ¿qué criterio de ordenación sigue el SmartTV? Ummmm. Alguna información de los metadatos de los archivos debe ser la que se está utilizando como criterio de ordenación... pero ¿cuál? ¡Hay que investigar!
 
 Al llegar a casa, empecé a escribir este caso de resolución de problemas:
-* Hablando con mi primo Miguel se nos ocurrió que quizás la fecha de modificación de las fotos podría ser el criterio elegido.
-* Este valor aparece en los metadatos.
+* Hablando con mi primo Miguel se nos ocurrió que quizás la fecha de modificación de las fotos podría ser el criterio elegido. Este valor aparece en los metadatos.
 * Además mi prima Anabel habitualmente cambia los metadatos de forma masiva de todas las fotos que entrega... pero esta vez no lo hizo.
-* Entonces decido modificar el script para que haga un renombrado y además cambie la fecha de modificación de los archivos según la secuencia que queremos. Veamos script:
+* Entonces decido modificar el script para que haga un renombrado y además cambie la fecha de modificación de los archivos según la secuencia que queremos. Veamos el cambio:
 
 ```
 #!/usr/bin/ruby
@@ -139,7 +138,7 @@ files.each do |oldname|
   cmd = "mv \"#{oldname}\" #{newname}"
   puts cmd
   system(cmd)
-  system("touch #{newname}")
+  system("touch #{newname}") # Aquí el cambio
 end
 ```
 
