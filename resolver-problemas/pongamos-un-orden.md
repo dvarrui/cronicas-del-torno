@@ -102,9 +102,7 @@ end
 
 * Vamos al SmartTV, ponemos el pendrive y...
 
-> Las fotos siguen desordenadas a pesar de que nos aseguramos de poner correctamente lo nombres.
->
-> ¡Nos frustramos! Pero decidimos ver las fotos ya. Aunque no tuvieran el orden esperado. :-(
+> Las fotos siguen desordenadas a pesar de que nos aseguramos de poner correctamente lo nombres. ¡Nos frustramos! Pero decidimos ver las fotos ya. Aunque no tuvieran el orden esperado. :-(
 >
 > ¡Por cierto! Las fotos ¡guapísimas! Mi prima es una crack de la fotografía. Si no lo creen... compruébenlo ustedes mismos.
 
@@ -114,9 +112,7 @@ end
 
 > ¿Pero qué está pasando? Lo habitual es que los exploradores de archivos muestren los ficheros por el orden de sus nombres de archivos. Este caso no.
 >
-> Entonces ¿qué criterio de ordenación sigue el SmartTV? Ummmm
->
-> Alguna información de los metadatos de los archivos debe ser la que se está utilizando como criterio de ordenación... pero ¿cuál? ¡Hay que investigar!
+> Entonces ¿qué criterio de ordenación sigue el SmartTV? Ummmm. Alguna información de los metadatos de los archivos debe ser la que se está utilizando como criterio de ordenación... pero ¿cuál? ¡Hay que investigar!
 
 Al llegar a casa, empecé a escribir este caso de resolución de problemas:
 * Hablando con mi primo Miguel se nos ocurrió que quizás la fecha de modificación de las fotos podría ser el criterio elegido.
