@@ -38,9 +38,9 @@ Anabel...
 * Decidimos renombrar los archivos de la siguiente forma:
 
 ```
-01-anabel-david.jpg
-02-anabel-david.jpg
-03-anabel-david.jpg
+01-davidyaaron.jpg
+02-davidyaaron.jpg
+03-davidyaaron.jpg
 etc.
 ```
 
