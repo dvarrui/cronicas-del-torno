@@ -1,6 +1,8 @@
 
 # Ruby: ¿IDE? ¡No, gracias!
 
+> **WARNING**: Sólo para programadores Ruby o Python. Abstenerse tipados estáticos.
+
 ## IDE: Características
 
 Ejemplos de IDE serían:
