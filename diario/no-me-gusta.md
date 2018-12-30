@@ -1,10 +1,9 @@
 
 # No me gusta
 
-A mi me gusta la informática...
-Pero hay algunas "implementaciones" que no me hacen feliz.
-
-Ahora soy feliz porque he encontrado mi "implementación".
+> A mi me gusta la informática... Pero hay algunas "implementaciones" que no me hacen feliz.
+>
+> Ahora soy feliz porque he encontrado mi "implementación".
 
 A mi modo de ver tenemos 3 caminos cuando algo no nos gusta:
 1. Quejarse
