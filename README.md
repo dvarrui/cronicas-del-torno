@@ -30,4 +30,9 @@ O lo que es lo  mismo, ¿cuánta variedad de situaciones diferentes se puede enc
 Pushing POWER Button...
 ```
 
-[Ir al diario](./diario)
+---
+
+* [El comienzo](./comienzo)
+* Trabajo [diario](./diario)
+* [Resolver problemas](./resolver-problemas)
+* [Informática](./informatica)
