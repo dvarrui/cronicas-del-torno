@@ -18,10 +18,11 @@ De hecho, por favor, pido que si alguien se siente identificado con estas cróni
 
 ---
 
-# Capítulos
+# Las recetas
 
-Los capítulos de estas crónicas no tendrán necesariamente un orden cronológico, simplemente trataré de exponer en cada capítulo un tema diferente. ¡Um! ¿Me pregunto cuántos capítulos/temas diferentes surgirán?
+Las _recetas_ de estas crónicas no tendrán necesariamente un orden cronológico, simplemente trataré de exponer en cada una un tema diferente. ¡Um! ¿Me pregunto cuántas _recetas_ diferentes surgirán?
 O lo que es lo  mismo, ¿cuánta variedad de situaciones diferentes se puede encontrar un profesor CFGS de Informática? ... Pues la respuesta es...
+
 ¡Dejemos de teorizar! ¡Y empecemos la parte empírica!
 
 ¡Let's go!
@@ -32,7 +33,16 @@ Pushing POWER Button...
 
 ---
 
+# Mis recetas
+
 * [El comienzo](./comienzo)
 * Trabajo [diario](./diario)
 * [Resolver problemas](./resolver-problemas)
-* [Informática](./informatica)
+* Asunto [informáticos](./informatica)
+
+---
+
+# Enlaces de interés
+
+* [#AprendemosJuntos
+V. completa. “Las matemáticas nos hacen más libres y menos manipulables”. Eduardo Sáenz de Cabezón](https://youtu.be/BbA5dpS4CcI)
