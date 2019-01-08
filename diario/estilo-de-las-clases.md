@@ -70,6 +70,11 @@ Exceptuando las herramientas tecnológicas, las diferencias de funcionamiento qu
 * En los cursos online los alumnos puede parar y seguir según su disponibilidad.
 * En los cursos online los alumno pueden reproducir tantas veces como quieran los contenidos.
 * En los cursos online los alumnos no necesitan tomar apuntes. Cuestión que a mi parecer es muy deseable puesto que pienso que al escribir se hace un ejercicio que nos ayuda a retener y procesar mucho mejor los contenidos.
+* En la clase magistral el profesor marca los tiempos y es el protagonista, pero en el curso online, los tiempos los marcan los alumnos... y por tanto son ellos los protagonistas.
+
+> **DUDAS**
+> * De alguna manera todos hacemos la estructura de clase magistral... pero ¿a partir de que cantidad de tiempo de protagonismo del profesor, se considera clase magistral?
+> * ¿Si el porcentaje de tiempo de protagonismo del alumno es mayor que el de protagonismo del profesor se puede decir que no hay clase magistral?
 
 ---
 
@@ -78,7 +83,3 @@ Exceptuando las herramientas tecnológicas, las diferencias de funcionamiento qu
 * Creo que el estilo de "clase magistral" puede ser útil a veces.
 * Creo que los cursos online pueden ser útiles a veces.
 * Creo que que el profesor no debe abusar del mismo estilo permanentemente, sino que debe ir variando cada cierto tiempo para no cansar ni aburrir. Pero hay que tener cuidado con la frecuencia de cambio, porque si cambia el estilo con mucha rapidez puede desconcertar demasiado y eso frustra mucho.
-
-> **DUDAS**
-> * De alguna manera todos hacemos la estructura de clase magistral... pero ¿a partir de que cantidad de tiempo de protagonismo del profesor, se considera clase magistral?
-> * ¿Si el porcentaje de tiempo de protagonismo del alumno es mayor que el de protagonismo del profesor se puede decir que no hay clase magistral?
