@@ -1,11 +1,13 @@
 
-# Clase magistral
+# Estilo de las clases
 
 > Seguramente he cometido errores y/o equivocaciones en las ideas que he plasmado a continuación. Lo expongo públicamente, por si alguien detecta fallos en el razonamiento/planteamiento y me saca de mi error.
 >
 > Mi agradecimiento de antemano.
 
-# Definición
+---
+
+# Clase magistral: Definición
 
 (Extraído de la Wikipedia)
 ```
@@ -62,7 +64,7 @@ La forma en la que el alumno "consume" los materiales de estudio en dichos curso
 
 ---
 
-# Resumen
+# Clase magistral vs cursos online
 
 Exceptuando las herramientas tecnológicas, las diferencias de funcionamiento que veo son:
 * En los cursos online los alumnos puede parar y seguir según su disponibilidad.
@@ -76,3 +78,7 @@ Exceptuando las herramientas tecnológicas, las diferencias de funcionamiento qu
 * Creo que el estilo de "clase magistral" puede ser útil a veces.
 * Creo que los cursos online pueden ser útiles a veces.
 * Creo que que el profesor no debe abusar del mismo estilo permanentemente, sino que debe ir variando cada cierto tiempo para no cansar ni aburrir. Pero hay que tener cuidado con la frecuencia de cambio, porque si cambia el estilo con mucha rapidez puede desconcertar demasiado y eso frustra mucho.
+
+> **DUDAS**
+> * De alguna manera todos hacemos la estructura de clase magistral... pero ¿a partir de que cantidad de tiempo de protagonismo del profesor, se considera clase magistral?
+> * ¿Si el porcentaje de tiempo de protagonismo del alumno es mayor que el de protagonismo del profesor se puede decir que no hay clase magistral?
