@@ -78,8 +78,22 @@ Exceptuando las herramientas tecnológicas, las diferencias de funcionamiento qu
 
 ---
 
-# Opinión
+# Opiniones
 
-* Creo que el estilo de "clase magistral" puede ser útil a veces.
-* Creo que los cursos online pueden ser útiles a veces.
-* Creo que que el profesor no debe abusar del mismo estilo permanentemente, sino que debe ir variando cada cierto tiempo para no cansar ni aburrir. Pero hay que tener cuidado con la frecuencia de cambio, porque si cambia el estilo con mucha rapidez puede desconcertar demasiado y eso frustra mucho.
+## Los estilos y el feedback
+
+Tanto el estilo de "clase magistral" como los cursos online pueden ser muy útiles dependiendo del caso. Entiendo que el profesor debe ir tomando dichas decisiones.
+
+Pero también creo que independientemente del estilo escogido, es MUY IMPORTANTE ATENDER AL FEEDBACK. Esto es, periódicamente recopilar información para averiguar qué tal están asimilando, entendiendo, comprendiendo los alumnos las explicaciones y contenidos.
+
+Es crucial que los alumnos preguntes las dudas. Pero como muchas veces los alumnos son tímidos o se ven bloqueados por diversos motivos, el profesor debe
+* preguntar,
+* poner ejercicios y corregirlos lo antes posible,
+* observar lo que están haciendo y cómo.
+A medida que se detectan errores que se repitan con frecuencia, conviene plantear si dichos errores frecuentes se pueden minimizar de alguna forma y buscar soluciones de futuro.
+
+## Como me funciona lo repito y canso
+
+Creo que que el profesor no debe abusar del mismo estilo permanentemente, sino que debe ir variando cada cierto tiempo para no cansar ni aburrir.
+
+Pero hay que tener cuidado con la frecuencia de cambio, porque si cambia el estilo con mucha rapidez puede desconcertar demasiado y eso frustra mucho.
