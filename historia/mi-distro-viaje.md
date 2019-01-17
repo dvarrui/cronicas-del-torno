@@ -28,7 +28,6 @@
     * Documentación basada en docbook
     * Yast basado en Ruby
     * Etc.
-* Desde entonces estoy con OpenSUSE y desde 2018 concretamente con `OpenSUSE Tumbleweed` que es la versión `rolling release`. Instalo una vez y... pa'siempre.
-(_Me encanta_).
+* Desde entonces estoy con OpenSUSE y desde 2018 concretamente con `OpenSUSE Tumbleweed` con escritorio `XFCE`. Tumbleweed es la versión `rolling release` de OpenSUSE. Instalo una vez y... pa'siempre (_Me encanta_).
 
 17-enero-2019
