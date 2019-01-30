@@ -21,10 +21,17 @@ Hay personas que son _distrohopper_, que tienen la tendencia incontrolable de pr
 
 Como no es mi caso sigo mi búsqueda.
 
-Supongamos que tenemos definida (internamente) nuestra lista de criterios. ¡Bien! Lo que habrá que hacer será buscar entre todas las alternativas posibles la que cumple la mayor cantidad de criterios de nuestra lista, y apostaremos por esa. Puede ser que tengamos, por ejemplo 10 criterios y encontremos dos opciones A que cumple 6 criterios y B que cumple otros 6 criterios diferentes ¡Oh! Entonces necesitamos además que nuestra lista (interior) personal de criterios esté priorizada.
+Supongamos que tenemos definida (internamente) nuestra lista de criterios. ¡Bien! Lo que habrá que hacer será, buscar entre todas las alternativas posibles, la que cumple la mayor cantidad de criterios de nuestra lista, y apostaremos por esa.
 
-Tiene sentido (Ya lo decían los antiguos filófosos: "Conócete a tí mismo")
-que hagamos un esfuerzo por conocernos e idetificar nuestros criterios y prioridades.
+Puede ser que tengamos, por ejemplo 10 criterios y encontremos dos opciones:
+* A que cumple 6 criterios y
+* B que cumple otros 6 criterios diferentes
+
+¡Oh! Entonces necesitamos además, que la lista de criterios esté priorizada.
+
+Tiene sentido que hagamos un esfuerzo por conocernos, e identificar nuestros criterios y prioridades.
+
+`(Ya lo decían los antiguos filófosos: "Conócete a tí mismo")`
 
 **No tengo criterio**
 
