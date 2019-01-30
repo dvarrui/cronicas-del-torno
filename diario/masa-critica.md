@@ -9,7 +9,7 @@ Lo que está claro es ... que el futuro NO se puede adivinar. ¡Ja, ja, ja, ja! 
 
 **Recorrido en profundidad**
 
-Podríamos...(hay gente que lo hace) gastar tiempo y tiempo, analizando y analizando, y probando y probando, todas y cada una de las alternativas posiblemas para ver si así damos con nuestra "respuesta". Y cuando las tienes todas analizadas, a pasado tanto tiempo que han aparecido nuevas opciones... ¡uff!
+Podríamos...(hay gente que lo hace) gastar tiempo y tiempo, analizando y analizando, y probando y probando, todas y cada una de las alternativas posiblemas para ver si así damos con nuestra "respuesta". Y cuando las tienes todas analizadas, ha pasado tanto tiempo que han aparecido nuevas opciones... ¡uff!
 
 **Distrohopper**
 
