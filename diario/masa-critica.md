@@ -13,9 +13,9 @@ Podríamos...(hay gente que lo hace) gastar tiempo y tiempo, analizando y analiz
 
 **Distrohopper**
 
-Hay personas que son _distrohopper_, que tienen la tendencia incontrolable de probar una herramienta y al día siguiente cambiarla por la otra, y las días siguiente volverla a cambiar, y... while(true).
+Hay personas que son _distrohopper_, que tienen la tendencia incontrolable de probar una herramienta y al día siguiente cambiarla por la otra, y días mas tarde volverla a cambiar, y... while(true).
 
-¡Bueno! ¡Vale! Yo no soy así. Igual durante una temporada de mi vida si... pero ahora quiero estabilidad (_¿Me estaré haciendo mayor? Ummmm_). Bueno, no pasa nada. Si eres undistrohopper... ya lo sabes y pa'lante.
+¡Bueno! ¡Vale! Yo no soy así. Igual durante una temporada de mi vida si... pero ahora quiero estabilidad (_¿Me estaré haciendo mayor? Ummmm_). Bueno, no pasa nada. Si eres distrohopper... ya lo sabes y pa'lante.
 
 **Establecer prioridades**
 
