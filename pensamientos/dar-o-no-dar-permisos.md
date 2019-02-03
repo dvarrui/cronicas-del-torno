@@ -27,7 +27,7 @@ De forma similar si los sistemas de ficheros permitieran que el usuario UA crear
 
 **Responsable único**
 
-Podríamos pensar, que si el usuario UA crear el archivo CA y da permisos de lectura y escritura a su grupo GA... entonces todos los miembros del grupo GA podrían modificar el contenido del archivo CA y el usuario UA sería responsable aunque no lo hay escrito...¡Sí! ¡Sí! y ¡Sí! El usuario UA como propietario del archivo CA tiene la responsabilidad sobre CA. Si no quiere asumir responsabilidades sobre CA... no des permisos de escritura a nadie.
+Podríamos pensar, que si el usuario UA crea el archivo CA y da permisos de lectura y escritura a su grupo GA... entonces todos los miembros del grupo GA podrían modificar el contenido del archivo CA y el usuario UA sería responsable aunque no lo hay escrito...¡Sí! ¡Sí! y ¡Sí! El usuario UA como propietario del archivo CA tiene la responsabilidad sobre CA. Si no quiere asumir responsabilidades sobre CA... no des permisos de escritura a nadie.
 
 No es un problema técnico. Es una cuestión de organización y gestión de la responsabilidad. Es un tema organizativo.
 
