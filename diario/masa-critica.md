@@ -89,6 +89,6 @@ Y me fuí pensativo a casa, porque varias de las herramientas que he elegido par
 
 Si no hubiera aventureros de estos... nunca saldría nada. Mira Cristobal Colón... ¿tu no crees que la gente se reía de él cuando salió del puerto a rumbo desconocido? Y le dirían: _¿a dónde vas? Que pa'llá no hay na'. Quédate bobo. Que todos estamos aquí. ¿No lo ves?_
 
-A veces hay que elegir ir a lo seguro y otras... ¿por qué no? _Ser Indiana Jones_.
+A veces hay que elegir ir a lo seguro, y otras... ¿por qué no? _Ser Indiana Jones_.
 
 ;-)
