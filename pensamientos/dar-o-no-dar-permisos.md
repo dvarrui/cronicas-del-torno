@@ -3,7 +3,7 @@
 
 **Analizar la situación**
 
-Como informático, nos encontraremos muchas veces con un usuario que nos hace una petición/solicitud o nos pregunta cómo lo podemos ayudar con su problema. Evidentemente, el usuario nos pregunta por que "siente" que tiene un problema "informático" y por esa razón consulta al experto. Es normal, los usuarios no tienen por qué saber. Para eso estamos los profesionales.
+Como informático, nos encontraremos muchas veces con un usuario que nos hace una petición/solicitud, o nos pregunta si podemos ayudarlo. Evidentemente, el usuario nos pregunta a nosotros por que "siente" que es un problema "informático", y por esa razón consulta a su experto. Es normal, los usuarios no tienen por qué saber. Para eso estamos los profesionales.
 
 Entonces nos reunimos con el usuario, le preguntamos sobre su problema y qué quiere conseguir, a dónde quiere llegar. No es buena idea que el usuario nos diga cómo tenemos que resolverle su problema. ¡No! El usuario que nos diga a dónde hay que llegar,y ya nosotros decidiremos cuál será el camino que habrá que recorrer.
 
