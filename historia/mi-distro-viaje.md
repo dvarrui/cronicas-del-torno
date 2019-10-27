@@ -19,9 +19,9 @@
     * Los comandos y ficheros de configuración son fundamentales.
     * El entorno gráfico es lo de menos. Lo quiero sencillo, rápido y limpio. Nada de efectos especiales y ni los últimos iconos de moda. Me gusta el azul, el negro y el blanco principalmente.
     * Estable
-* Pensé en volver a Ubuntu... pero enseguida me dí cuenta que ese no era mi camino... Así que estuve vagando por los mundos digitales hasta que... un día... casi sin quererlo... lo encontré.
-* Era abril de 2013 y lo encontré. No es el mejor sistema operativo del mundo. No. Es el mejor para mí porque trae por defecto todo lo que yo quería... lo instalo y punto. No tengo que configurar nada nuevo (_¡Gracias!_).
-* Además tenía por defecto instalado Ruby. Venía con `Yast`. Un configurador de todo. En modo gráfico y consola. Si amigos... `OpenSUSE` (_No confundir con SUSE_) Tiene políticas diferentes. OpenSUSE está guiado por la comunidad de opensuse. Es un proyecto de software libre.
+* Pensé en volver a Ubuntu... pero enseguida me dí cuenta que ese no era mi camino (Ubuntu trata al usuario como si no supiera y dificulta el trabajo de los que sí saben)... Así que estuve vagando por los mundos digitales hasta que... un día... casi sin quererlo... lo encontré.
+* Era abril de 2013. No es el mejor sistema operativo del mundo. No. Es el mejor para mí, porque trae por defecto todo lo que yo quería (necesito)... lo instalo y punto. No tengo que configurar nada nuevo (_¡Gracias!_).
+* Además tenía por defecto instalado Ruby. Venía con `Yast`. Un configurador de todo. En modo gráfico y consola. Si amigos... `OpenSUSE` (_No confundir con SUSE_) Tiene políticas diferentes. OpenSUSE está guiado por la comunidad de OpenSUSE. Es un proyecto de software libre.
 * Además tienen cosas maravillosas para mí:
     * OBS
     * Kiwi (Antes tenían SuseStudio)
