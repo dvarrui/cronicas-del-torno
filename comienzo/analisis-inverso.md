@@ -88,7 +88,7 @@ Veamos un ejemplo para el trimestre que viene:
 Normalmente le pongo a los alumnos actividades que son como mini-proyectos que suelen durar una semana y a veces también actividades de tipo cuestionario o taller. Olvidemos los cuestionarios de Moodle porque se corrigen sólos. Esos no me suponen tiempo de corrección (OJO pero si de creación. Pero nuevamente regalo este tiempo a la empresa).
 
 Entonces:
-1. ¿Las corrección de las actividades cuánto esfuerzo requiren?
+1. ¿Las corrección de las actividades cuánto esfuerzo requieren?
 2. ¿Qué tiempo de media tardo en corregir 1 actividad de 1 módulo para 1 alumno?
 
 * Supongamos (esto hay que calcularlo más concienzudamente) que tardo en corregir una actividad cuya entrega es un `informe con capturas de pantalla a modo de tutorial`... pongamos 10 minutos de media (ya haré algún ajuste más fiel de este valor).
@@ -100,8 +100,7 @@ Entonces:
 
 # Reflexión
 
-¡Ahí estaba mi error! Yo estaba haciendo 10 (o más) actividades evaluables por trimestre y... ¡no! Con el tiempo que tengo
-disponible sólo puedo evaluar 6 actividades del tipo "informe tutorial".
+¡Ahí estaba mi error! Yo estaba haciendo 10 (o más) actividades evaluables por trimestre y... ¡no! Con el tiempo que tengo disponible sólo puedo evaluar 6 actividades del tipo "informe tutorial".
 
 Etica:
 ```
@@ -142,8 +141,7 @@ pero... pero... no es correcto.
 YO:
 ```
 Entiendo que no es la forma más adecuada...
-de que la empresa de su cumpla sus objetivos y
-dé el servicio adecuado a sus clientes.
+para dar el mejor servicio a los alumnos.
 Eso creo.
 Pero... es decisión de la empresa.
 

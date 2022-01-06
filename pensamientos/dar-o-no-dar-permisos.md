@@ -3,15 +3,15 @@
 
 **Analizar la situación**
 
-Como informático, nos encontraremos muchas veces con un usuario que nos hace una petición/solicitud, o nos pregunta si podemos ayudarlo. Evidentemente, el usuario nos pregunta a nosotros por que "siente" que es un problema "informático", y por esa razón consulta a su experto. Es normal, los usuarios no tienen por qué saber. Para eso estamos los profesionales.
+Como informático, nos encontraremos muchas veces con un usuario que nos hace una petición/solicitud, o nos pregunta si podemos ayudarlo. Evidentemente, el usuario nos pregunta a nosotros porque "siente" que es un problema "informático", y por esa razón consulta a su experto. Es normal, los usuarios no tienen por qué saber. Para eso estamos los profesionales.
 
-Entonces nos reunimos con el usuario, le preguntamos sobre su problema y qué quiere conseguir, a dónde quiere llegar. No es buena idea que el usuario nos diga cómo tenemos que resolverle su problema. ¡No! El usuario que nos diga a dónde hay que llegar,y ya nosotros decidiremos cuál será el camino que habrá que recorrer.
+Entonces nos reunimos con el usuario, le preguntamos sobre su problema y qué quiere conseguir, a dónde quiere llegar. No es buena idea que el usuario nos diga cómo tenemos que hacer nuestro trabajo. ¡No! El usuario que nos diga a dónde hay que llegar,y ya nosotros decidiremos cuál será el camino que habrá que recorrer.
 
 Como resultado del análisis del problema del usuario, al final llegaremos a conclusiones, nos reuniremos con el usuario y le plantearemos las opciones disponibles, sus pros y contras. En algunos casos, puede incluso, que tras analizar la necesidad del usuario, le tengamos que decir que no se puede hacer por:
 1. Cuestiones técnicas: _tecnológicamente no es viable_.
-2. Cuestiones sociales: _error de planteamiento del problema original_. Vamos que va a empeorar el problema con otro diferente que no se había planteado.
+2. Cuestiones sociales: _error de planteamiento del problema original_. Esto es, que va a empeorar el problema con otro diferente que no se había planteado.
 
-El caso 2... podría plantear dudas al profesional de ¿lo hago o no lo hago? Sabes que no es correcto, pero claro ¿si el cliente me paga un "pastón"?
+El caso 2... podría plantear dudas al profesional de ¿lo hago o no lo hago? Sabes que no es correcto, pero claro ¿si el cliente me paga un "pastón"? ¿El cliente siempre tiene la razón?
 
 Si decides hacerlo, aunque seas consciente de que lo vas a empeorar todo... por favor, que el cliente te lo ponga por escrito y firmado. Y deja de leer este documento aquí y ahora.
 
@@ -21,9 +21,9 @@ Si decides hacerlo, aunque seas consciente de que lo vas a empeorar todo... por 
 
 Si estás leyendo esto, es porque has decidido ser un buen profesional (y no estás apurado económicamente), y le dices al usuario que eso que él pide, no se puede hacer de esa forma porque genera un problema peor.
 
-Cuando un usuario crea archivos en su PC. Estos, por defecto, se crean de su propiedad. Los sistemas de ficheros de los sistemas operativos tienen prohibido que un usuario pueda cambiar el propietario de un archivo. ¿Se podría hacer tecnológicamente? ¡Sí! Pero no se hace... ¿por qué? Porque entonces todo el sistema de ficheros perdería sentido. Ejemplo: Un usuario UA hace un archivo con un contenido (CA) determinado. El usuario UA es responsable de dicho escrito, pero si por un casual le cambia el propietario para el usuario UB... entonces según el sistema de ficheros ¿ahora el responsable es el usuario UB? ¡No tiene sentido!. La utilidad de identificar quién ha hecho qué (responsabilidad)... desaparecería.
+Cuando un usuario crea archivos en su ordenador con su cuenta. Estos, por defecto, se crean de su propiedad. Los sistemas de ficheros de los sistemas operativos tienen prohibido que un usuario pueda cambiar el propietario de un archivo. ¿Se podría hacer tecnológicamente? ¡Sí! Pero no se hace... ¿por qué? Porque entonces todo el sistema de ficheros perdería sentido. Ejemplo: Un usuario UA hace un archivo con un contenido (CA) determinado. El usuario UA es responsable de dicho escrito, pero si por un casual le cambia el propietario para el usuario UB... entonces según el sistema de ficheros ¿ahora el responsable es el usuario UB? ¡No tiene sentido!. La utilidad de identificar quién ha hecho qué (responsabilidad)... desaparecería.
 
-De forma similar si los sistemas de ficheros permitieran que el usuario UA creara el archivo CA, y que el usuario UA le diera permisos al usuario UB para que pudiera "cambiar los permisos" de CA... nos encontraríamos en una situación similar a la anterior.
+De forma similar, si los sistemas de ficheros permitieran que el usuario UA creara el archivo CA, y que el usuario UA le diera permisos al usuario UB para que pudiera "cambiar los permisos" de CA... nos encontraríamos en una situación similar a la anterior.
 
 **Responsable único**
 
@@ -31,7 +31,7 @@ Podríamos pensar, que si el usuario UA crea el archivo CA y da permisos de lect
 
 El usuario UA como propietario del archivo CA tiene la responsabilidad sobre CA. Si no quiere asumir responsabilidades sobre CA... no des permisos de escritura a nadie.
 
-No es un problema técnico. Es una cuestión de organización y gestión de la responsabilidad. Es un tema organizativo.
+No es un problema técnico. Es una cuestión de organización, y gestión de la responsabilidad. Es un tema organizativo.
 
 Esto quiere decir que ¿no podemos hacer trabajos colaborativos porque entonces UA es siempre el responsable de todo? No. Para los trabajos colaborativos de este tipo existen las herramientas de control de versiones, por ejemplo Git que pueden hacer un seguimiento de quién ha escrito qué y cuándo.
 
