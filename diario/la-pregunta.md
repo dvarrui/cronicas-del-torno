@@ -7,8 +7,7 @@ como resultado... la actividad NO FUNCIONA.
 
 En ese momento, nos frustramos un poco y pasa esto:
 
-(El alumno piensa "Bueno, he hecho todo lo que se pedía, debe funcionar. Si no funciona es que algo me lo han dicho
-mal")
+(El alumno piensa "Bueno, he hecho todo lo que se pedía, debe funcionar. Si no funciona es que algo me lo han dicho mal")
 
 ```
 Alumno: ¿Profesor, puede venir?"
@@ -22,7 +21,7 @@ Alumno: Esto no funciona.
 Profesor: ¡Es verdad, no funciona!
 ```
 
-(El alumno mira al profesor. El profesor al alumno)
+(El alumno mira al profesor. El profesor mira al alumno)
 
 ```
 Profesor: ¿Me quieres preguntar algo?
@@ -32,16 +31,19 @@ Profesor: Si, ya lo veo. ¿y cuál es la pregunta?
 
 Es muy importante para el alumno hacer la pregunta. Eso le hace pensar en el problema. Aclarar los conceptos. Si lo tiene claro hará una pregunta clara. Si lo tiene confuso no sabrá cómo hacer la pregunta.
 
-**Regla nº1: El primer paso para resolver un problema es SABER QUÉ PROBLEMA TIENES.**
+**Regla nº1: El primer paso para resolver un problema es SABER DONDE TIENES EL PROBLEMA.**
 
----
 ---
 
 # Ser ordenado
 
-El ser ordenado es una cuestión personal. Hay personas que son ordenadas y otras no. Otras tienen un "desorden ordenado". Lo importante es tener un orden. Por ejemplo: Todos los camisas van al cajón de las camisas, todos los calcetines al cajón de los calcetines, etc.
+El ser ordenado es una cuestión personal. Hay personas que son ordenadas y otras no. Otras tienen un "desorden ordenado". Lo importante es tener un orden. Por ejemplo: Todos los camisas van al cajón de las camisas, todos los calcetines al cajón de los calcetines, etc. O toda la ropa oscura a un cajón y toda la clara al otro. Para ordenar hay que tener un criterio.
 
-Haz un orden y respétalo. Porque si eres ordenado y mantienes las cosas en su sitio será más fácil ver cuando hay algo fuera de sitio. Y no queremos perder tiempo buscando.
+1. Establece un criterio
+2. Haz un orden
+3. y ¡respétalo! (esto es lo más difícil al principio)
+
+Porque si eres ordenado y mantienes las cosas en su sitio, será más fácil ver cuando hay algo fuera de sitio. Y no queremos perder tiempo buscando.
 
 Si no quieres perder tiempo buscando, sé ordenado.
 
@@ -65,7 +67,7 @@ Actividad con el problema:
 * etc.
 ```
 
-Bien, ahora que o tenemos descompuesto debemos ir por orden a comprobar cada una de las partes. ¿Tienes prisa y quieres un camino más rápido para evitar hacer todo esto? Vale... ¡Hay que hacer todo esto!
+Bien, ahora que o tenemos descompuesto debemos ir por orden a comprobar cada una de las partes. ¿Tienes prisa y quieres un camino más rápido para evitar hacer todo esto? Vale... ¡no lo hay! ¡no hay recetas mágicas! Hazme caso: ¡Hay que hacer todo esto!
 
 A medida que vayas comprobando cada una de las distintas partes del problema/actividad las irás marcando como OK las que están bien, hasta dar con la que está mal.
 
@@ -95,16 +97,16 @@ Y volvemos a comprobar cada subparte.
 Al terminar debemos haber descubierto dónde está el problema. En caso contrario... nos frustraremos, bufaremos, llamaremos al profesor:
 
 ```
-Alumno: Profe! Esto sigue sin funcionar
+Alumno: ¡Profe! Esto sigue sin funcionar
 Alumno: Llevo toda la hora con este problema. Desde luego
 el SO XXX es una mierXX y el PC este es una caXX...
 ```
 
-Vamos lo que es expulsar la negatividad interna de uno hacia afuera para que el resto que estamos en clase reduzcamos nuestro nivel de felicidad por el interés de un alumno de compartir en público sus pensamientos.
+Vamos... lo que es expulsar la negatividad interna de uno hacia afuera para que el resto que estamos en clase reduzcamos nuestro nivel de felicidad por el interés de un alumno de compartir en público sus pensamientos.
 
-¡Ese no es el camino joven Padawan!
+¡Ese no es el camino joven "Padawan"!
 
-Un sysadmin se enfrentará a muchas situaciones de estrés en su día a día. Debemos aprender a lidiar con ello. Si no te puedes aguantar, pide permiso al profesor y vete al bar a tomarte una tila.
+Un sysadmin se enfrentará a muchas situaciones de estrés en su día a día. Debemos aprender a lidiar con ello. Si no te puedes aguantar, pide permiso al profesor y vete a la cafetería a tomarte una tila.
 
 **Regla nº4: Con tiempo todo se ve más despejado**
 
@@ -114,7 +116,7 @@ Después de darte un tiempo y relajar la mente todo se ve mucho mejor. Igual no 
 
 Una vez tomada la tila, volvemos al problema. Si no podemos solos recurramos a la ayuda de alguien que nos acompañe. Puede ser un compañero de clase, una hermana o un muñeco de Yoda. Te sientas y le cuentas el problema. Cómo lo has descompuesto y cada una de las comprobaciones que has estado haciendo. De forma ordenada y sin saltarte ningún paso.
 
-Cuando contamos algo nuestro cerebro intenta ordenar las ideas para poderlas explicar. Esto ayuda a ordenar/limpiar nuestra mente. En este punto, las mayoría de las veces "vemos" dónde tenemos el problema. Sonreímos para nosotros mismos. Liberamos estrés y empezamos a sentirnos orgullosos porque teníamos un problema que nos había constado bastante y lo hemos resuelto.
+Cuando contamos algo nuestro cerebro intenta ordenar las ideas para poderlas explicar. Esto ayuda a ordenar/limpiar nuestra mente. En este punto, las mayoría de las veces "vemos" dónde tenemos el problema. Sonreímos para nosotros mismos. Liberamos estrés y empezamos a sentirnos orgullosos porque teníamos un problema que nos había costado bastante y lo hemos resuelto.
 
 **Regla nº 5: Las cosas que cuestan son las que tienen más valor**
 
@@ -124,20 +126,20 @@ Cuando contamos algo nuestro cerebro intenta ordenar las ideas para poderlas exp
 
 En este punto puede ser que todavía la actividad NO funcione. Pero debes tener unas partes más claras y alguna confusa. Donde tienes la confusión vuelve a aplicar la regla del divide y vencerás y sigue descomponiendo a ver dónde está el problema.
 
-Cuando ya sabes que parte es la que falla. Y solo en ese momento. Es cuando estamos preparados para:
+Cuando ya sabes que parte es la que falla. Y solo en ese momento. Es cuando estamos preparados para el siguiente nivel:
 
 ```
-Alumno: Profesor, tengo un problema en XXX. Y mi pregunta es ¿cómo ...? ¿Por qué...? ¿Dónde...? ¿Quíen...?
+Alumno: Profesor, tengo un problema en XXX. Y mi pregunta es ¿cómo ...? ¿Por qué...? ¿Dónde...? ¿Quién...?
 Profesor: Eso está relacionado con AAA. Míralo y compruébalo.
 ```
 
 También, podemos buscar en Internet situaciones parecidas. Seguramente antes que nosotros, han habido muchas personas que ya ha tenido antes ese problema y lo ha resuelto.
 
-Pero aunque lo resolvamos con la ayuda de Internet. NO HAGAS UN COPY-PASTE. Si vas a usar la ayuda de Internet... ¡hazlo! ¡Pero hazlo bien! Como un caballero Sysadmin. Entiende lo que estás haciendo y por qué los estás haciendo... resumiendo.. APRENDE DEL PROBLEMA y convierte tu frustración en un superpoder (has aumentado tu conicimiento de la fuerza Sysadmin).
+Pero aunque lo resolvamos con la ayuda de Internet. NO HAGAS UN COPY-PASTE. Si vas a usar la ayuda de Internet... ¡hazlo! ¡Pero hazlo bien! Como un caballero Sysadmin. Entiende lo que estás haciendo y por qué los estás haciendo... resumiendo.. APRENDE DEL PROBLEMA y convierte tu frustración en un superpoder (has aumentado tu conocimiento de la fuerza Sysadmin).
 
 **Regla nº 6: Aprende del problema**
 
-Si no aprendes y haces un COPY-PASTE...lo siento ¡estás perdido! Por que has añadido otro problema a la actividad. Tu desconocimiento y falta de interés. Y puede ser que tengas la tentación de hacer otro COPY-PASTE para solucionar el problema del COPY-PASTE anterior y así sucesivamente hasta que...
+Si no aprendes y haces un COPY-PASTE...lo siento (Te has pasado al lado oscuro) ¡Estás perdido! Por que has añadido otro problema a la actividad. Tu desconocimiento y falta de interés. Y puede ser que tengas la tentación de hacer otro COPY-PASTE para solucionar el problema del COPY-PASTE anterior y así sucesivamente hasta que...
 
 Siento tener que volver a recordártelo. *Regla nº 5: Las cosas que cuestan son las que tienen más valor*. No busques un atajo fácil cuando sabes el camino que debes recorrer.
 
