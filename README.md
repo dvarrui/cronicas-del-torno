@@ -36,9 +36,9 @@ Pushing POWER Button...
 # Mis recetas
 
 * [El comienzo](./comienzo)
-* Trabajo [diario](./diario)
+* [Trabajo diario](./diario)
 * [Resolver problemas](./resolver-problemas)
-* Asunto [informáticos](./informatica)
+* [Pensamientos](./pensamientos)
 
 ---
 
