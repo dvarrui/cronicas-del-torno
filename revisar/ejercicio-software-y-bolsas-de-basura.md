@@ -1,4 +1,8 @@
 
+```
+EN CONSTRUCCION!!!
+```
+
 # Ejercicio, software y bolsas de basura
 
 ## El ejercicio

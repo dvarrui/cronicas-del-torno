@@ -1,7 +1,7 @@
 
 # ¿Dónde tienes el foco?
 
-Habitualmente sólo oir en Educación... ¡hagamos esto en benificio del alumando! ¡Hagamos esto otro para que el alumnado esto y aquello!... Vale, no está mal pensar en el cliente. Esto es, el que va a consumir nuestro producto. Nosotros enseñamos y ellos aprenden. IMPORTANTE: no hay que perder el interés del cliente.
+Habitualmente sólo oír en Educación... ¡hagamos esto en beneficio del alumnado! ¡Hagamos esto otro para que el alumnado esto y aquello!... Vale, no está mal pensar en el cliente. Esto es, el que va a consumir nuestro producto. Nosotros enseñamos y ellos aprenden. IMPORTANTE: no hay que perder el interés del cliente.
 
 Para poder dar un servicio al cliente, debe haber una empresa (Sistema Educativo) que lo lleva a cabo a través de sus trabajadores (profesores, y personal no docente).
 
