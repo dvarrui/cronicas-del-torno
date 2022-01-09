@@ -15,6 +15,6 @@ Este ejemplo, es importante para darse cuenta que cuando nos queremos hacer ente
 
 Lo que en informática se llama `acordar el protocolo de comunicación`. Esto es, acordar cuáles serán las reglas del protocolo que vamos a usar en nuestra comunicación.
 
-Si este paso... podemos perder muchos tiempo hablando... y nunca llegar a un entendimiento.
+Sin este paso... podemos perder muchos tiempo hablando... y nunca llegar a un entendimiento.
 
 ¿Me entiendes? ;-)
