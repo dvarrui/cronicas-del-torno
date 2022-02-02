@@ -44,5 +44,4 @@ Pushing POWER Button...
 
 # Enlaces de interés
 
-* [#AprendemosJuntos
-V. completa. “Las matemáticas nos hacen más libres y menos manipulables”. Eduardo Sáenz de Cabezón](https://youtu.be/BbA5dpS4CcI)
+* [#AprendemosJuntos V. completa. "Las matemáticas nos hacen más libres y menos manipulables". Eduardo Sáenz de Cabezón](https://youtu.be/BbA5dpS4CcI)
