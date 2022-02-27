@@ -38,6 +38,7 @@ Pushing POWER Button...
 * [El comienzo](./comienzo)
 * [Trabajo diario](./diario)
 * [Resolver problemas](./resolver-problemas)
+* [Informática](./informatica)
 * [Pensamientos](./pensamientos)
 
 ---
