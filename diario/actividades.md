@@ -1,13 +1,40 @@
 
-```
-EN CONSTRUCCIÓN
-```
 
 # Las actividades 
 
+## Un poco de "pedagogía"
 
 Enlaces de interés:
 * [Implicaciones de la teoría de la carga cognitiva para el diseño de actividades. Sweller, van Merrienboer y Paas](https://investigaciondocente.com/2020/10/09/implicaciones-de-la-teoria-de-la-carga-cognitiva-para-el-diseno-de-actividades-sweller-van-merrienboer-y-paas/)
+
+
+Ideas:
+* La automatización libera memoria de trabajo para poder lidiar con otras actividades. 
+Con la automatización, las tareas familiares se llevan a cabo con fluidez y precisión, 
+liberando a la memoria de trabajo para enfocarse en las partes nuevas.
+
+
+**Arquitectura cognitiva**
+
+Tenemos una memoria de trabajo limitada que lidia con todas las actividades conscientes 
+y una memoria a largo plazo en la que se almacenan esquemas de varios grados de automatización. 
+
+Las habilidades intelectuales son consecuencia de la construcción de esquemas cada vez más sofisticados 
+y complejos con un alto grado de automatización. Así, los esquemas llevan a la memoria de trabajo 
+múltiples elementos y nos permiten ignorar lo irrelevante. De esa forma, la memoria de trabajo se libera, 
+permitiendo procesos complejos que la sobrecargarían.
+
+
+**Definiciones**
+
+* **Carga intrínseca:** depende esencialmente del número de elementos que interaccionan para comprender una idea.
+Cuando hay muchos elementos relacionados y nuevos, la memoria de trabajo no da a basto. 
+El material con pocos elementos nuevos, o no relacionados, es más fácil de comprender. Esto es la carga intrínseca.
+* La tesis principal de los autores es que la **carga extrínseca** 
+impuesta por el diseño de nuestras actividades debería ser la principal consideración 
+que tengamos los docentes a la hora de diséñenlas. 
+Todo lo que hagamos en clase debe ser visto desde la perspectiva de la carga cognitiva.
+
 
 ## Los esquemas
 
