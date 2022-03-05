@@ -35,6 +35,16 @@ impuesta por el diseño de nuestras actividades debería ser la principal consid
 que tengamos los docentes a la hora de diséñenlas. 
 Todo lo que hagamos en clase debe ser visto desde la perspectiva de la carga cognitiva.
 
+**Problemas sin meta**
+
+Por eso es recomendable utilizar problemas sin meta, que no permiten extraer diferencias 
+entre el estado actual y el final porque no hay una meta final establecida. 
+
+Así, hay que encontrar una estrategia alternativa para su resolución. Por ejemplo:
+ 
+Un coche acelera uniformemente desde el reposo durante un minuto. 
+Su velocidad final es de 2 km/min. 
+Calcula el valor de todas las variables que puedas respecto al coche. 
 
 ## Los esquemas
 
