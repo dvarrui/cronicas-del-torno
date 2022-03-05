@@ -32,6 +32,7 @@ Si algún días los encuentras... es una suerte.
 En otros casos nos podemos encontrar con la disyuntiva:
 1. Hago mi trabajo. Esto es, cumplir los objetivos para lo que me han contratado y punto.
 2. Cumplo las órdenes de mi jefe y/o superior pero no hago mi cometido.
+3. En el caso de que [1] y [2] no entren en contradicción... pues hago [1] y luego en horas extras no pagadas hago el [2] para "quedarme tranquilo" (OJO le estás robando tiempo a tu familia)
 
 ---
 
@@ -39,15 +40,24 @@ En otros casos nos podemos encontrar con la disyuntiva:
 
 A veces ocurren estas contradicciones. Lo primero que se nos ocurre es hablar. Explicar la situación al jefe para que entienda el problema que tenemos... Puede ser que lo entienda. Entonces todo acaba aquí.
 
-Si no lo entiende, o no podemos hablar con el jefe porque las órdenes vienen de arriba y los mandos intermedios se niegan a cuestionar las decisiones y tampoco nos permiten explicarnos...
+Si no lo entiende, o no podemos hablar con el jefe porque las órdenes vienen de arriba y los mandos intermedios se niegan a cuestionar las decisiones y tampoco nos permiten explicarnos... pues entonces... no nos queda otra que elegir
 
-Tendremos que decidir entre [1] o [2].
+```
+1, 2, 3...
+responda otra vez
+```
 
 ---
 
 # Conclusión
 
 Esta paradoja genera un desgaste en los trabajadores.
-Con conocer la existencia de esta situación no vamos a evitar que ocurra... pero por lo menos seremos más conscientes cuando estemos dentro de una de ellas.
+Conocer la existencia de esta situación no va a evitar que ocurra... pero por lo menos seremos más conscientes cuando estemos dentro de una de ellas.
 
-¡Ya sé por qué estoy cansado! Trabajo mucho pero estoy cansado. No lo estoy haciendo mal yo. Eso viene de arriba.
+```
+¡Ya sé por qué estoy cansado! 
+Trabajo mucho pero estoy cansado. 
+
+No lo estoy haciendo mal yo. Eso viene de arriba.
+```
+
