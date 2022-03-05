@@ -21,7 +21,13 @@ Hay algunos trabajos (como el nuestro) en los que ocurren situaciones paradójic
 
 La paradoja aparece en los trabajos por varias situaciones, como por ejemplo, cuando el jefe te pide que hagas algo que te impide hacer tu trabajo. Pero ¿cómo puede ser esto?... ¡Pues sí¡ Ocurre.
 
-Cuando tu jefe comprende tus responsabilidades y hasta dónde alcanza lo que puedes controlar... entonces en esos casos, normalmente, nuestro jefe nos pide tareas coherentes con nuestro puesto de trabajo y los recursos disponibles. Y entonces, NO hay paradoja. ¡Lo sé, porque lo he vivido!. He tenido la suerte de tener este tipo de jefes. ¡Sí! Sé lo que piensas y ¡Sí existen este tipo d jefes! Son poco frecuentes como los tréboles de 4 hojas. Si algún días los encuentras... es una suerte.
+Cuando tu jefe comprende tus responsabilidades y hasta dónde alcanza lo que puedes controlar... entonces en esos casos, normalmente, nuestro jefe nos pide tareas coherentes con nuestro puesto de trabajo y los recursos disponibles. Y entonces, NO hay paradoja. ¡Lo sé, porque lo he vivido!. He tenido la suerte de tener este tipo de jefes.
+
+```
+¡Sí! Sé lo que piensas y ¡Sí existen este tipo de jefes! 
+Son poco frecuentes como los tréboles de 4 hojas. 
+Si algún días los encuentras... es una suerte.
+```
 
 En otros casos nos podemos encontrar con la disyuntiva:
 1. Hago mi trabajo. Esto es, cumplir los objetivos para lo que me han contratado y punto.
