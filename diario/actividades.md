@@ -5,6 +5,19 @@ EN CONSTRUCCIÓN
 
 # Las actividades 
 
+
+Enlaces de interés:
+* [Implicaciones de la teoría de la carga cognitiva para el diseño de actividades. Sweller, van Merrienboer y Paas](https://investigaciondocente.com/2020/10/09/implicaciones-de-la-teoria-de-la-carga-cognitiva-para-el-diseno-de-actividades-sweller-van-merrienboer-y-paas/)
+
+## Los esquemas
+
+El alumno debe ir aprendiendo a crearse sus propios esquemas como una habilidad más del proceso de aprendizaje,
+pero al inicio del curso y en las actividades especialmente complejas/confusas el profesor debe presentar un esquema
+que ayude a clarificar los contenidos que se van a ver.
+
+Los esquemas que pueden tener forma de table, árbol o clasificación, etc. ayudan a grabar la información en la 
+memoria a largo plazo.
+
 ## Actividades/tareas sin puntos de control intermedio 
 
 En el caso de proponer proyectos o tareas para realizar en un periodo largo en el tiempo pero sin supervisión
