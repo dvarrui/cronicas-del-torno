@@ -15,7 +15,7 @@ que el pretendido mundo exterior, oficial y legalizado"
 
 ---
 
-# Origen
+# Antencedentes
 
 Hay algunos trabajos (como el nuestro) en los que ocurren situaciones paradójicas. Me explico.
 
