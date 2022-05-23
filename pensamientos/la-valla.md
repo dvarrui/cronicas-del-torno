@@ -27,17 +27,17 @@ No lo respetamos porque pensamos que la valla se puso en algún momento por alg�
 Digo que el fallo está en la implementación de la valla porque debería ir acompañada de un mensaje aclaratorio, en caso contrario se invalida. Es como cuando el padre le dice al hijo:
 
 ```
-Padre1: ¡no hagas eso!
-Hijo: ¿Pero por qué?
-Padre1: Por que no.
+Padre.1 : ¡no hagas eso!
+Hijo.1  : ¿Pero por qué?
+Padre.1 : Por que no.
 ```
 
 En este caso el hijo obedece en presencia del padre, pero una vez que el padre no está el hijo no respeta la norma porque no está asimilada (explicada, interiorizada). Veamos otro caso:
 
 ```
-Padre2: ¡no hagas eso!
-Hijo: ¿Pero por qué?
-Padre2: Porque te puedes hacer daño y tendríamos que ir corriendo al hospital.
+Padre.2 : ¡no hagas eso!
+Hijo.2  : ¿Pero por qué?
+Padre.2 : Porque te puedes hacer daño y tendríamos que ir corriendo al hospital.
 ```
 
 Ahora la orden (recomendación) del padre se interioriza mejor en el hijo porque éste entiendo un poco más los motivos de las decisiones que se toman.
