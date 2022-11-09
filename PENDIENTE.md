@@ -74,3 +74,17 @@ Yo en el tiempo que llevo curiosiando en Linux uno de los obstáculos más marca
 Estoy muy deacuerdo en que una buena documentación es muy importante para ayudar a enseñar cómo funcionan las cosas. Cuanta mejor sea...estupendo! pero... en mi experiencia personal.. ese NO es el factor clave que bloquee o limite a los usuarios a entrar en este nuevo mundo... (Sólo es mi opinión) SIEMPRE he tenido más problemas de documentación con WIndows que con el software libre. Cada vez que compraba un libro para aprender... no me enseñaban... sólo decían.. aprieta aquí y allí y al final de picar tiene esto... NO  era conocimiento. Con el software libre puede que  a veces no haya buena documentación pero siempre sé que puedo llegar hasta el final y verlo TODO. Llegar hasta el último paso del conocimiento y acceder al código directamente. Es fantástico! Vale! Sé lo que piensan ahora.. eso lo dices porque sabes programar etc etc etc. Si es verdad pero si no sabes programar... sabes que se puede. Con Windows NO. Otra cosa los usuarios son usuarios NO tienen porque saber cosas avanzadas son usuarios. Como yo por ejemplo si tengo un problema de salud... no sé — voy a un experto (médico ) y que me diga o aconseje o recomiende qué debo hacer... voy a una fuente de confianza y "me creo" lo que me diga... los usuarios necesitan "fuentes de confianza" en GNU/Linux y el software libre... ahí los profesionales tenemos la responsabilidad de darles respuesta y apoyo. Si lo usuarios NO tienen esa fuente de confianza... es normal que se mantengan en lo conocido... Sólo se "arriesgan" a dar el "salto" los osados, los aventureros, los que buscan aprender... y eso... hay que dedicarle.
 
 # Hacer lo que me exigen o hacer lo necesario
+
+# 10 conceptos japoneses imprescindibles que mejorarán tu vida
+
+> Tessa Davis (@TessaRDavis)
+> https://twitter.com/TessaRDavis/status/1585595021281173504?t=-9_XhEM9ERIKNKjO-JzvtA&s=35
+
+1. **Oubaitori.** Nunca te compares. Todos florecen en su propio tiempo de diferentes maneras. No te juzgues por el camino de otra persona.
+2. **Kaizen.** Mejorar continuamente. Esfuérzate constantemente por mejorar en todas las áreas de tu vida. Los pequeños cambios se acumulan y marcan la diferencia.
+3. **Wabi-sabi.** Abraza la imperfección. Nada dura, nada está completo. Acepta tus propios defectos y los de los demás.cEncuentra la belleza en la imperfección.
+4. **Mottainai.** No seas derrochador. Todo merece respeto y gratitud. Reconoce el valor de lo que te rodea y no lo desperdicies.
+5. **Gamán.** Tener dignidad durante la coacción. Los tiempos difíciles deben afrontarse con madurez emocional y autocontrol. Necesitamos paciencia, perseverancia, + tolerancia.
+
+
+
