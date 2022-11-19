@@ -16,8 +16,6 @@ De hecho, por favor, pido que si alguien se siente identificado con estas cróni
 
 ¡Muchas gracias!
 
----
-
 # Las recetas
 
 Las _recetas_ de estas crónicas no tendrán necesariamente un orden cronológico, simplemente trataré de exponer en cada una un tema diferente.
