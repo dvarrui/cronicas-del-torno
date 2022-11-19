@@ -20,18 +20,17 @@ De hecho, por favor, pido que si alguien se siente identificado con estas cróni
 
 # Las recetas
 
-Las _recetas_ de estas crónicas no tendrán necesariamente un orden cronológico, simplemente trataré de exponer en cada una un tema diferente. ¡Um! ¿Me pregunto cuántas _recetas_ diferentes surgirán?
-O lo que es lo  mismo, ¿cuánta variedad de situaciones diferentes se puede encontrar un profesor CFGS de Informática? ... Pues la respuesta es...
+Las _recetas_ de estas crónicas no tendrán necesariamente un orden cronológico, simplemente trataré de exponer en cada una un tema diferente.
+
+_¡Um! ¿Me pregunto cuántas "recetas" diferentes surgirán?_ O lo que es lo  mismo, ¿cuánta variedad de situaciones diferentes se puede encontrar un profesor CFGS de Informática? ... Pues la respuesta es...
 
 ¡Dejemos de teorizar! ¡Y empecemos la parte empírica!
 
-¡Let's go!
+_¡Let's go!_
 
 ```
 Pushing POWER Button...
 ```
-
----
 
 # Mis recetas
 
@@ -40,8 +39,6 @@ Pushing POWER Button...
 * [Resolver problemas](./resolver-problemas)
 * [Informática](./informatica)
 * [Pensamientos](./pensamientos)
-
----
 
 # Enlaces de interés
 

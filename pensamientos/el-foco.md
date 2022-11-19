@@ -17,4 +17,4 @@ Cuando hay dificultades para dar al cliente el servicio deseado y tus trabajador
 
 ## Propuesta
 
-Mi propuesta es primero **poner el foco en el PROFESOR**. Resolver sus problemas. Y cuando esté solucionado, y sólo entonces poner el foco en el alumnado. O también podemos, dejarlo todo como está y seguir ofreciendo el mismo producto.
+Mi propuesta es primero **poner el foco en el PROFESOR**. Resolver sus problemas. Y cuando esté solucionado, y sólo entonces poner el foco en el alumnado. O también podemos, dejarlo todo como está y seguir ofreciendo el mismo "servicio".
