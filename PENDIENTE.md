@@ -87,4 +87,7 @@ Estoy muy deacuerdo en que una buena documentación es muy importante para ayuda
 5. **Gamán.** Tener dignidad durante la coacción. Los tiempos difíciles deben afrontarse con madurez emocional y autocontrol. Necesitamos paciencia, perseverancia, + tolerancia.
 
 
+https://investigaciondocente.com/2020/10/09/implicaciones-de-la-teoria-de-la-carga-cognitiva-para-el-diseno-de-actividades-sweller-van-merrienboer-y-paas/
+
+https://victorhck.gitbook.io/el-programador-mediocre/
 
