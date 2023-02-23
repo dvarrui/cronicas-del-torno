@@ -6,3 +6,5 @@
 
 ![](https://pbs.twimg.com/media/FT5iYUgVIAA6mJV?format=jpg&name=large)
 
+* [Don't Write Comments](https://youtu.be/Bf7vDBBOBUA) Why you shouldn't write comments in your code (write documentation)
+
