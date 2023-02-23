@@ -41,3 +41,6 @@ Pushing POWER Button...
 # Enlaces de interés
 
 * [#AprendemosJuntos V. completa. "Las matemáticas nos hacen más libres y menos manipulables". Eduardo Sáenz de Cabezón](https://youtu.be/BbA5dpS4CcI)
+Dónde descargar &#39;Winnie the Pooh&#39; y todos los demás libros que entraron al dominio público en 2022
+https://www.genbeta.com/actualidad/donde-descargar-winnie-the-pooh-todos-demas-libros-que-entraron-al-dominio-publico-2022
+* [Descargar libros que entraron al dominio público en 2022](https://www.genbeta.com/actualidad/donde-descargar-winnie-the-pooh-todos-demas-libros-que-entraron-al-dominio-publico-2022): Todos los años el arca del dominio público celebra la adición de montones de obras que tras décadas y décadas pasan a formar parte del uso colectivo....
