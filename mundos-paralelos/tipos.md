@@ -33,6 +33,7 @@ episodio = 4
 ```
 
 ```rust
+// La variable i se declara de tipo i8 pero la variable j se infiere
 let i: i8 = 16
 j = i;
 ```
@@ -43,9 +44,9 @@ Para poder manipular los datos de las variables necesitamos saber cómo interpre
 
 El momento de realizar esa asociación, o la forma de realizar la asociación determina el modelo de tipado que tiene cada lenguaje de programación. Por ejemplo:
 
-| Tipado   | Momento | Mecanismo |
-| -------- | ------- | --------- |
+| Tipado   | Momento | Responsable |
+| -------- | ------- | ----------- |
 | Estático | Los tipos de las variables se establecen antes de poder ejecutar el programa | Es el programado el que de forma explícita define las asociaciones de variable con su tipo. A esto se le llama declaración de variables |
 | Inferencia | Los tipos de las variables se establecen antes de poder ejecutar el programa | Es la herramienta compilador/intérprete el encargado de deducir o averiguar el tipo de cada una |
 | Dinámico | Los tipos de las variables se establecen durante la ejecución del programa | Es el compilador/intérprete el encargado de deducir o averiguar el tipo de cada una |
- 
+| Gradual | Es una mezcla de los anteriores | Es una mezcla de los anteriores |
