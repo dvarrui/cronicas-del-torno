@@ -14,7 +14,7 @@ Voy a describir el mio.
 
 # Lenguages de programación
 
-# Variable
+## Variable
 
 Una variable es una referencia que apunta a una dirección de memoria en la que está almacenado un dato (valor). 
 La variable puede cambiar la dirección de memoria a la que apunta para reflejar un cambio de contenido.
@@ -71,4 +71,22 @@ Hay lenguajes de programación que están implementados usando:
 * Sólo datos mutables
 * Sólo datos inmutables
 * Mezclando datos mutables e inmutables.
+
+La mutabilidad de los datos está relacionado con los punteros a memoria, o sea las referencias a las posiciones de memoria donde se guardan los datos. Hay lenguajes como el C que nos permiten trabajar con los punteros a nuestro antojo y por tanto aumentan su mutabilidad. Hay otros lenguajes que no permiten manipular o trabajar directamente con los punteros o referencias a memoria y por tanto se nos hace más difícil mutar y se consigue mayor inmutabilidad. Hay lenguajes donde todos los datos son inmutables.
+
+## Constantes
+
+Podríamos pensar que las variables inmutables son como constantes... pero no es exactamente así.
+* La variable inmutable cambia su referencia o apuntador de memoria pero NO cambia el datos de la memoria. Cambiar un dato no existe. Se crea un nuevo dato y se cambia el apuntador de memoria. La variables inmutables varían su apuntador de memoria pero no cambian los datos en memoria.
+* Una constante es como una variable que no cambia su dato. Esto es. Es como una variable que no cambia su referencia de memoria o apuntador, ni tampoco el dato al que apunta.
+
+Habría que visualizar las variables como una tupla de (puntero, datos)
+
+| Tipo               | Puntero   | Dato |
+| ------------------ | --------- | ----------|
+| Variable mutable   | NO cambia | Cambia    |
+| Constante          | NO cambia | NO cambia |
+| Variable inmutable | Cambia    | No cambia |
+| ¿?                 | Cambia    | Cambia    |
+
 
