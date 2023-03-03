@@ -15,7 +15,8 @@ Un lenguaje de programación puede compilarse o puede interpretarse. Otra cosa e
 Por ejemplo, el lenguaje de programación Ruby, tiene varios intérpretes diferentes y varios compiladores:
 
 * Compiladores: mruby, Natalia.
-* Intérpretes: CRuby (MRI), JRuby, ThrufleRuby
+* Intérpretes: CRuby (MRI), JVM
+* Compilador a bytecode: JRuby, ThrufleRuby
 
 En C hay compiladores e intérpretes.
 En Python también hay compiladores e intérpretes.

@@ -76,6 +76,6 @@ En el artículo ¿Es la ingeniería de software un oxímoron?, Kay escribe: _"Ha
 
 Le pregunté a Alan Kay sobre su definición de "orientado a objetos" y me dijo en 2003:
 
-OOP para mí significa solo mensajería, retención local y protección y ocultación del proceso de estado, y [LateBinding]() extremo de todas las cosas.
+_"OOP para mí significa solo mensajería, retención local y protección y ocultación del proceso de estado, y [LateBinding](late-binding.md) extremo de todas las cosas."_"
 
 Ver http://www.purl.org/stefan_ram/pub/doc_kay_oop_en
