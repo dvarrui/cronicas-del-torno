@@ -24,3 +24,26 @@ Durante sus investigaciones, Dijkstra descubrió que ciertos usos de las instruc
 
 Sin embargo, otros usos del goto no tenían ese problema (if/then/else do/while).
 
+Página 48
+
+En última instancia, podemos afirmar que las matemáticas son la disciplina de demostrar que afirmaciones probables son ciertas. La ciencia, por el contrario, es la disciplina de demostrar que afirmaciones probables son falsas.
+
+5. Programación Orientada a Objetos
+Página52
+DOO es la combinación adecuada de: Encapsulación, herencia y polimorfismo. 
+
+ENCAPSULACION
+
+Los lenguajes OO ofrecen una encapsulación sencilla y efectiva de datos y función.
+
+Página 53
+Java y C# evitaron por completo la división encabezado/implementación, debilitando de este modo aún más la encapsulación. En esos lenguajes es imposible separar la declaración y la definición de una clase.
+
+HERENCIA
+
+Página 55. Cabe señalar que, aunque los lenguajes OO no nos ofrecieron nada nuevo, hicieron que el enmascaramiento de estructura de datos fuera mucho más práctico.
+
+El lenguaje OO impone disciplina en la transferencia indirecta del control.
+
+Página 59. DOO es la capacidad mediante el uso del polimorfismo, de obtener el control total sobre las dependencias del código fuente en el sistema.
+
