@@ -14,3 +14,13 @@ El hecho de crear un desastre es siempre más lento que mantener la limpieza, in
 
 _La única forma de ir rápido es ir bien._
 
+Página 45
+
+El problema que Dijkstra reconoció muy al principio, era que la programación es difícil y que los programadores no lo hacían muy bien. Un programa de cierta complejidad contiene demasiados detalles como para que los gestione un cerbro humano sin ayuda.
+
+La solución de Dijkstra fue aplicar la disciplina matemática de la prueba.
+
+Durante sus investigaciones, Dijkstra descubrió que ciertos usos de las instrucciones goto evitan que los módulos se descompongan de forma recurrente en unidades más y más pequeñas, evitando de este modo el uso del método divide y vencerás, necesario para las pruebas razonables.
+
+Sin embargo, otros usos del goto no tenían ese problema (if/then/else do/while).
+
