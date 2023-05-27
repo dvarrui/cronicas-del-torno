@@ -1,0 +1,5 @@
+
+* La línea de comandos CLI es para un sysadmin lo que un editor es para un developer
+* ¿Puede undeveloper programar sin escribir? ¿Sólo usando botones y arrastrando?
+* ¿se espera lo mismo de un sysadmin?
+
