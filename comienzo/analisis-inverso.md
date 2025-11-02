@@ -188,7 +188,7 @@ Caminos posibles:
     * Esto lo puede implementar el profesor directamente.
 2. Buscar estrategias para reducir el tiempo de corrección de las actividades:
     * Cambiando el tipo de actividad.
-    * Usando corrección automática-remota (TEUTON).
+    * Usando corrección automática-remota (Herramienta TEUTON).
     * Usar rúbricas de evaluación sencillas.
 3. Reducir el número de alumnos, grupos y/o módulos asignados.
     * Depende de la EMPRESA.
@@ -207,3 +207,4 @@ Definiciones:
 | estimar   | 1. tr. Calcular o determinar el valor de algo. Estimaron los daños en mucho dinero. |
 | calificar | 3. tr. Juzgar el grado de suficiencia o la insuficiencia de los conocimientos demostrados por un alumno u opositor en un examen o ejercicio. |
 | juzgar    | 5. tr. Creer u opinar algo. ¿Juzgas que lo hizo por despecho? |
+
