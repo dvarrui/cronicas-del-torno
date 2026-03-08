@@ -1,8 +1,8 @@
 [<< back](./README.md) | [HOME](../index.md) | next
 
-# Contexto
+# 1. Contexto
 
-# Al principio fue el nombre
+## 1.1 Al principio fue el nombre
 
 Elegir el nombre adecuado para cada cosa, siempre me ha parecido muy importante. Sin embargo, elegir un buen nombre no es sencillo. A veces que quedo bloqueado durante días, semanas o más. Otras elijo un nombre que me genera fricción y siento que lo debo cambiar porque no es el adecuado. Este proceso consume energía, pero cuando he dado con el nombre, es como cuando desaparece la niebla y se nos muestra el camino que tenemos por delante de forma clara. Cuando tengo el nombre apropiado, ya tengo el 50% del trabajo hecho.
 
@@ -20,7 +20,7 @@ Mi camino personal (no es el único ni es el mejor).
 
 Si esta lectura le puede servir de ayuda, entretenimiento o etc. a alguien más, me alegraré mucho. Si no, también me alegraré porque por fín he puesto estas ideas por escrito y habré conseguido liberarme.
 
-# Quién es quién
+## 1.2 Quién es quién
 
 Vamos a poner contexto. Mi nombre es David Vargas Ruiz. He trabajado de profesor de Formación Profesional en la comunidad autónoma de Canarias dando clases de la especialidad de Sistemas y Aplicaciones Informáticas.
 
@@ -32,7 +32,7 @@ Antes de entrar al mundo de la docencia había estado trabajando en varias empre
 
 No tenía experiencia previa cuando entré en la docencia. Puntualmente había dado algunos cursos de desempleados, trabajadores de empresas, amigos y de aquellas experiencias tenía buen recuerdo y me había sentido cómodo. De modo que imaginé que podía defender bien trabajar de profesor de informática. Eso pensaba.
 
-# Formación previa
+## 1.3 Formación previa
 
 ¿Había recibido formación adecuada para trabajar de profesor de FP de informática?... ¡No! Pero yo no lo sabía. Nadie me lo había dicho. Si eres un profesor novel, te lo digo. No tienes la formación necesaria para trabajar de profesor de FP.
 
@@ -47,3 +47,7 @@ En cualquier caso, el CAP sólo lo hice para tener título y por si acaso. Pero 
 > Este dato es importante porque explica lo que vino a continuación.
 
 Empecemos con los consejos que `david(t=0)` le diría a `david(t-=20)`.
+
+## 1.4 Colaboraciones
+
+Aunque esto se aun proyecto personal, si otro profesor/a FP de Informática y/o Sistemas quiere colaborar en esta guía de consejos, será bienvenido.

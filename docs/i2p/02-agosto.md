@@ -114,9 +114,12 @@ Si me aceptas más consejos:
 
 > Prepárate todo lo que puedas para no tener que improvisar. Pero cuando llegues al aula tienes que estar listo para improvisar.
 
-Independientemente de los bien o mal preparado que estés o que tu pienses que estás. Si los alumnos se llevan una buena sensación de las clase (aprovechar la clase), tu tendrás las "pials cargadas" con ese sentimiento y eso te dará fuerzas para llegar hasta junio.
+Independientemente de los bien o mal preparado que estés o que tu pienses que estás. Si los alumnos se llevan una buena sensación de las clase (aprovechar la clase), tu tendrás las "pilas cargadas" con ese sentimiento y eso te dará fuerzas para llegar hasta junio.
 
 Cómo se consigue que los alumnos tengan ese sentimiento... no puedes controlar a los demás pero si ellos perciben (y los alumnos lo perciben) que te preocupas por dar lo mejor de tí mismo en clase y que te preocupas por hacer un buen trabajo, te salga como lo tenías previsto y no, ellos lo van a valorar y eso es "oro". No hay mejor recompensa (aparte del salario y las vacaciones) para un profesor que un antiguo alumno que se te acerca, te saluda y te da las gracias. _Soy un sentimental pero se me saltan las lágrimas_. 
 
+Si el grupo de clase percibe (y es real) que te preocupas ellos van a entender que las cosas a veces salgan mal. Si tu te preocupas por ellos y tu trabajo, el sentimiento es recíproco. Si los alumnos están satisfechos, no tendrás denuncias. Nadie quiere tener una denuncia aunque tengas razón porque implica un coste de papeleo, tiempo y entrevistas con inspección en el mejor de los casos.
 
+Ojo, no digo que cedas a todo lo que te pida el grupo clase. ¡No! Actúa con tu cirterio dentro de la ley y transmite tu preocupación por el trabajo bien hecho. Da ejemplo y ellos seguirán tu ejemplo. Si eres vago, ellos serán vagos. Si eres descuidado ellos serán descuidados. Si lelgas tarde, ellos llegarán tarde. El ejemplo es mejor que dar la charla, pero también es más difícil porque implica tener que cumplir con lo que predicas o dejar de predicar con los que no cumples. Esto parece sencillo pero implica mucho trabajo de filosofía interior.
 
+¿Pero esto qué es? ¿Informática, pedagogía, didáctica, psicilogía, filosofía, chorradas frikis? ... ¡Esto todo! Porque es todo lo que tiene que ser. IMHO
