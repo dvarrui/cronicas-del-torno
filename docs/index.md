@@ -1,29 +1,27 @@
 
-# Crónicas de un Informático metido a profesor
+# Crónicas del Torno
 
-> Todo lo que van a leer, es ficción. Cualquier parecido con la realidad, es pura _"koinsidensia"_.
+```
+Crónicas del Torno o
+"crónicas de un Informático metido a profesor"
+```
 
-Hoy, 22 de noviembre de 2018, he decidido empezar a escribir algunas conclusiones y formas de proceder 
-en relación a mis experiencias trabajando como profesor en los Ciclos Formativos de Grado Superior.
+Hoy, 22 de noviembre de 2018, he decidido empezar a escribir algunas reflexiones personales y modos de trabajo en relación a mis experiencias trabajando como profesor en los Ciclos Formativos de Grado Superior como profesor de Sistemas y Aplicaciones Informáticas en la Comunidad Autónoma de Canarias.
 
-No pretendo ser un experto en pedagogía, ni en psicología, ni en aspectos sociales. 
-Simplemente narrar mis puntos de vista en relación a estos temas, y cómo voy _"escapando"_ en el día a día
-de las diversas situaciones que un profesor de Informática se suele encontrar.
+No pretendo ser un experto en pedagogía, ni en psicología, ni en aspectos sociales. Simplemente narrar mis puntos de vista en relación a estos temas, y cómo voy _"escapando"_ en el día a día
+de las diversas situaciones que un profesor de Informática de FP se suele encontrar.
 
-De hecho, por favor, pido que si alguien se siente identificado con estas crónicas o tiene alguna otra, 
-escriba un "issue" y/o comentario en este repositorio.
+De hecho, por favor, pido que si alguien se siente identificado con estas crónicas o tiene alguna otra, escriba un "issue" y/o comentario, en este repositorio o me envíe un email.
 
 ¡Muchas gracias!
 
-# Las recetas
+# Organizacion en recetas
 
-Las _recetas_ de estas crónicas no tienen necesariamente un orden cronológico, simplemente trataré de exponer en cada una un tema diferente.
+El contenido está distribuido en diferentes documentos o crónicas donde cuento "recetas de trabajo". Estas _recetas_ no tienen necesariamente un orden cronológico, simplemente trataré de exponer un tema/asunto diferente en cada una.
 
 _¡Um! ¿Me pregunto cuántas "recetas" diferentes surgirán?_ o lo que es lo  mismo, ¿cuánta variedad de situaciones diferentes se puede encontrar un profesor CFGS de Informática? ... Pues la respuesta es...
 
-¡Dejemos de teorizar! ¡Y empecemos la parte empírica!
-
-_¡Let's go!_
+¡Dejemos de teorizar! ¡Y empecemos la parte empírica! _¡Let's go!_
 
 ```
 Pushing POWER Button...
