@@ -62,3 +62,7 @@ R: Ahora lo cuento. Vamos a usar herramientas de forma más rápida y ligera.
 | 5 | **Git**. ¡No reinventemos la rueda!  Además podemos usar Git dentro de Atom si queremos. |
 | 6 | El **lenguaje ruby es muy expresivo** y no requiere de herramientas de construcción externas. El se construye sólo así mismo.|
 | 7 | El lenguaje ruby tiene **metaprogramación y tipado dinámico**. El análisis del código estático nunca puede saber qué métodos tendrá una clase u objeto cuando el programa se ejecute. Todo puede autoprogramarse y cambiar durante la ejecución. ¡No te asustes! Hay formas de tener toda esta potencia controlada (Unit Test) |
+
+# Enlace de interés:
+
+* Programador pragmático de Dave Thomas
