@@ -17,3 +17,11 @@ Gizmodo en Español (https://es.gizmodo.com/cuanto-mas-digital-se-vuelve-la-educ
 Cuanto más digital se vuelve la educación, más evidente resulta una conclusión incómoda. Leer textos complejos y escribir a mano siguen siendo las únicas prácticas que garantizan un aprendizaje profundo y duradero
 La digitalización prometía mejorar la enseñanza, pero la evidencia empieza a señalar otra cosa. Comprender de ver
 ---
+
+La regla atribuida a Buda para comunicarte mejor (sin callarte lo importante): "Antes de hablar, deja que tus palabras pasen por tres puertas" | encodeEuro | Telva
+https://amp.telva.com/bienestar/2026/04/21/69e6253502136e176a8b4590.html
+
+TELVA (https://amp.telva.com/bienestar/2026/04/21/69e6253502136e176a8b4590.html)
+La regla atribuida a Buda para comunicarte mejor (sin callarte lo importante): "Antes de hablar, deja que tus palabras pasen por tres puertas"
+¿Es verdad, es necesario, es amable? Este filtro clásico —atribuido a Buda y emparentado c
+
