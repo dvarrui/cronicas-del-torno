@@ -10,3 +10,10 @@ Jordi Martí, profesor: "Un docente es un intelectual bien formado que sabe dar 
 https://amp.marca.com/tiramillas/sociedad/2026/05/05/jordi-marti-profesor-docente-intelectual-bien-formado-dar-clase-maquetador-pdfs.html
 ---
 
+Cuanto más digital se vuelve la educación, más evidente resulta una conclusión incómoda. Leer textos complejos y escribir a mano siguen siendo las únicas prácticas que garantizan un aprendizaje profundo y duradero
+https://es.gizmodo.com/cuanto-mas-digital-se-vuelve-la-educacion-mas-evidente-resulta-una-conclusion-incomoda-leer-textos-complejos-y-escribir-a-mano-siguen-siendo-las-unicas-practicas-que-garantizan-un-aprendizaje-profun-2000234662
+
+Gizmodo en Español (https://es.gizmodo.com/cuanto-mas-digital-se-vuelve-la-educacion-mas-evidente-resulta-una-conclusion-incomoda-leer-textos-complejos-y-escribir-a-mano-siguen-siendo-las-unicas-practicas-que-garantizan-un-aprendizaje-profun-2000234662)
+Cuanto más digital se vuelve la educación, más evidente resulta una conclusión incómoda. Leer textos complejos y escribir a mano siguen siendo las únicas prácticas que garantizan un aprendizaje profundo y duradero
+La digitalización prometía mejorar la enseñanza, pero la evidencia empieza a señalar otra cosa. Comprender de ver
+---
