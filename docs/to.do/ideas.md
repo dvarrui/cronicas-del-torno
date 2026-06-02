@@ -18,3 +18,8 @@ infobae (https://www.infobae.com/salud/ciencia/2026/04/04/narrar-para-recordar-e
 Narrar para recordar: el impacto profundo de la estructura narrativa en la consolidación de la memoria
 Convertir vivencias en relatos coherentes no solo organiza la información, sino que intensifica la retención y clarifica los ac
 
+---
+Como ignorar información potencia la memoria y el aprendizaje eficiente - Infobae
+https://www.infobae.com/salud/ciencia/2026/05/18/como-ignorar-informacion-potencia-la-memoria-y-el-aprendizaje-eficiente/?outputType=amp-type
+
+
