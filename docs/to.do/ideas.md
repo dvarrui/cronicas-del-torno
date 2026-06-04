@@ -1,4 +1,9 @@
 
+Por qué la era con más información es la que menos nos enseña - Infobae
+https://www.infobae.com/opinion/2026/05/27/por-que-la-era-con-mas-informacion-es-la-que-menos-nos-ensena/?outputType=amp-type
+
+---
+
 Filas, silencio y memoria: por qué el diseño de las aulas podría afectar el aprendizaje de los chicos - Infobae
 https://www.infobae.com/educacion/2026/05/15/filas-silencio-y-memoria-por-que-el-diseno-de-las-aulas-podria-afectar-el-aprendizaje-de-los-chicos/?outputType=amp-type
 
